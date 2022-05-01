@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Gashongore Prince
-- 👀 I’m interested in Electric Vehicles, Power System for Spacecrafts and Embedded Systems...
-- 🌱 I’m currently learning Anomaly/Faults Detection...
+- 🛠️ I design and make Cyber-physical Systems (i.e., I interface Sensors and Actuators to Processors)  
+- 👀 I’m interested in Electric Powertrain, Battery Management System (BMS), Power Grid (i.e., PMUs )
+- 🌱 I’m currently learning Sensors Data Mining, Observability (i.e., Anomaly/Faults Detection, Profiling ) 
 - 📫 pdukundane@gmail.com
 
 <!---
