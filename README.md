@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gashongore Prince
-- 🛠️ I design and make Cyber-physical Systems (i.e., I interface Sensors and Actuators to Processors)  
+- 🛠️ I design and make Cyber-physical Systems (i.e., I interface Sensors and Actuators to Processors for measurement and control )  
 - 👀 I’m interested in Electric Powertrain, Battery Management System (BMS), Power Grid (i.e., PMUs )
 - 🌱 I’m currently learning Sensors Data Mining, Observability (i.e., Anomaly/Faults Detection, Profiling ) 
 - 📫 pdukundane@gmail.com
