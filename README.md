@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gashongore Prince
+- 👋 Hi, I’m Prince Gashongore
 - 🛠️ I design and make Cyber-physical Systems (i.e., I interface Sensors and Actuators to Processors for measurement and control )  
 - 👀 I’m interested in Clean energy systems 
 
